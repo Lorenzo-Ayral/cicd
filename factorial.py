@@ -1,3 +1,7 @@
+"""
+Module permettant de calculer la factorielle d'un nombre
+"""
+
 import time
 
 final_list = []
@@ -23,7 +27,7 @@ def factorial(n):
 def sum_factorial():
     """
     Cette fonction permet de calculer la factorielle de 50
-    
+
     Returns:
         int: somme des factorielles de 0 à 50
     """
